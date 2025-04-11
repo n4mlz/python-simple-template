@@ -11,3 +11,5 @@ dev-dependencies = ["pyright>=1.1.399", "ruff>=0.11.5"]
 
 [tool.pyright]
 typeCheckingMode = "standard"
+venvPath = "."
+venv = ".venv"
